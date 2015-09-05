@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLogging.AzureExtensio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLogging", "SimpleLogging\SimpleLogging.csproj", "{2EC88421-7231-4923-868D-A7C7B9145120}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLooging.Tests", "SimpleLooging.Tests\SimpleLooging.Tests.csproj", "{6E3A9831-5574-4D1C-ADAE-AD31E4041D41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2EC88421-7231-4923-868D-A7C7B9145120}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EC88421-7231-4923-868D-A7C7B9145120}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EC88421-7231-4923-868D-A7C7B9145120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3A9831-5574-4D1C-ADAE-AD31E4041D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3A9831-5574-4D1C-ADAE-AD31E4041D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3A9831-5574-4D1C-ADAE-AD31E4041D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3A9831-5574-4D1C-ADAE-AD31E4041D41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

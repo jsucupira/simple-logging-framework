@@ -80,6 +80,7 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+    <None Include="SimpleLogging.AzureExtension.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimpleLogging\SimpleLogging.csproj">
