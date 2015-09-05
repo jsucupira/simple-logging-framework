@@ -1,4 +1,4 @@
-﻿namespace NLog.AzureExtensions
+﻿namespace SimpleLogging
 {
     public class CustomProperties
     {

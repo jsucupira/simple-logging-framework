@@ -1,7 +1,7 @@
 ﻿using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Table;
 
-namespace NLog.AzureExtensions
+namespace SimpleLogging.AzureExtension
 {
     public class AzureTableUtility
     {

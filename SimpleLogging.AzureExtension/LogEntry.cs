@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.WindowsAzure.Storage.Table;
 
-namespace NLog.AzureExtensions
+namespace SimpleLogging.AzureExtension
 {
     public class LogEntry : TableEntity
     {

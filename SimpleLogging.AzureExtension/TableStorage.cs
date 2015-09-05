@@ -2,9 +2,10 @@
 using System.Collections;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
+using NLog;
 using NLog.Targets;
 
-namespace NLog.AzureExtensions
+namespace SimpleLogging.AzureExtension
 {
     [Target("TableStorage")]
     public class AzureTableStorageTarget : TargetWithLayout
